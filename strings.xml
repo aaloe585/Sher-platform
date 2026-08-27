@@ -11,3 +11,16 @@
     <string name="btn_generate">Generate AI Video (Always Free)</string>
     <string name="splash_subtitle">Cinema Power Local &amp; Sustained</string>
 </resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHER</string>
+    <string name="status_permanent">وضع التشغيل الدائم: نشط ومجاني</string>
+    <string name="cache_storage">التخزين المؤقت: 0 ميجابايت</string>
+    <string name="ai_tools_title">أدوات فيديو الذكاء الاصطناعي المحلية (بدون إنترنت)</string>
+    <string name="btn_compress">ضغط الفيديو</string>
+    <string name="btn_cut">قص / دمج</string>
+    <string name="btn_export">تصدير سريع</string>
+    <string name="script_hint">مثال: رجل يمشي تحت المطر في شارع مظلم...</string>
+    <string name="btn_generate">توليد فيديو حي (مجاني دائماً)</string>
+    <string name="splash_subtitle">قوة سينمائية محلية مستدامة</string>
+</resources>
