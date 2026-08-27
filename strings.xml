@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SHER</string>
+    <string name="status_permanent">Permanent Mode: Active &amp; Free</string>
+    <string name="cache_storage">Cache Storage: 0 MB</string>
+    <string name="ai_tools_title">On-Device AI Video Tools (Offline)</string>
+    <string name="btn_compress">Compress Video</string>
+    <string name="btn_cut">Cut / Merge</string>
+    <string name="btn_export">Fast Export</string>
+    <string name="script_hint">Example: A man walking under the rain in a dark street...</string>
+    <string name="btn_generate">Generate AI Video (Always Free)</string>
+    <string name="splash_subtitle">Cinema Power Local &amp; Sustained</string>
+</resources>
